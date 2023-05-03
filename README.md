@@ -4,7 +4,29 @@
 * Linux user
 * Will code for Monero
 
----
+# Projects
+### [Wisdom Tree](https://github.com/HACKER097/wisdom-tree):
+> TUI concentration app, with pomodoro timer, YouTube music player, Lo-fi radio.
+> 
+> 18,000 Downloads
+
+### [Painter](https://github.com/HACKER097/Painter): 
+> Paints an image with vector lines using evolution.
+> 
+> Image processing and basic AI learning project.
+
+### [Flappy Bird Rust](https://github.com/HACKER097/FlappyBirdRust):  
+> Flappy Bird game in Rust.
+> 
+> Rust learning project.
+
+### [Contacts App](https://github.com/HACKER097/Contacts-app): 
+> Stupid contacts app.
+> 
+> Api and database learning project.
+
+# Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # Tech Stack:
