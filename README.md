@@ -9,6 +9,8 @@
 > TUI concentration app, with pomodoro timer, YouTube music player, Lo-fi radio.
 > 
 > 18,000 Downloads
+>
+> 250 Stars
 
 ### [Painter](https://github.com/HACKER097/Painter): 
 > Paints an image with vector lines using evolution.
